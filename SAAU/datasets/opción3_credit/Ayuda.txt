@@ -1,0 +1,4 @@
+El conjunto de datos contiene datos de clientes de un banco. El banco tiene que decidir si
+el perfil del cliente es el adecuado para dar un crédito. El objetivo de este problema es 
+predecir si el perfil es o no es el adecuado. 
+Investigando las características del conjunto de datos decide cuál es la variable dependiente.

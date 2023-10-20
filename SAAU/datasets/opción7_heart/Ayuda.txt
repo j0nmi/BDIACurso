@@ -1,0 +1,3 @@
+El conjunto de datos contiene varias características de pacientes. 
+Se debe estudiar todas las características. Y seleccionar la variable que debes usar
+para predecir si el paciente está en riesgo de infarto o no.

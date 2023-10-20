@@ -1,0 +1,2 @@
+Los conjuntos de datos contienen una serie de características de casas. 
+El objetivo es predecir el precio de la casa.

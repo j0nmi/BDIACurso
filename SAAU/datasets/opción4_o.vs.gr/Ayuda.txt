@@ -1,0 +1,2 @@
+El conjunto de datos contiene un grupo de características de frutas concretamente de 
+naranjas y pomelos. Investigando el conjunto de datos decide cuál es la variable dependiente.

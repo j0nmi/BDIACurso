@@ -1,0 +1,2 @@
+El conjunto datos contiene las características principales para adivinar 
+la calidad de un vino. El objetivo es predecir la calidad del vino.
