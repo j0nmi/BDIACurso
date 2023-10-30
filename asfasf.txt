@@ -1,0 +1,27 @@
+1.
+num1 = input('Introduce un número: ');
+num2 = input('Introduce otro número: ');
+
+% SIN VARIABLES
+disp(['Suma: ', num2str(num1 + num2)]);
+disp(['Resta: ', num2str(num1 - num2)]);
+disp(['Multiplicación: ', num2str(num1 * num2)]);
+disp(['División: ', num2str(num1 / num2)]);
+
+% CON VARIABLES
+suma = num1 + num2;
+resta = num1 - num2;
+multiplicacion = num1 * num2;
+division = num1 / num2;
+
+disp(['Suma: ', num2str(suma)]);
+disp(['Resta: ', num2str(resta)]);
+disp(['Multiplicación: ', num2str(multiplicacion)]);
+disp(['División: ', num2str(division)]);
+
+2.
+num = input('Introduce un número para ver su tabla: ');
+
+for i = 0:10
+    disp([num2str(num), ' x ', num2str(i), ' = ', num2str(num * i)]);
+end
